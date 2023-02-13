@@ -1,0 +1,30 @@
+[submodule "plugins/blackbox"]
+	path = plugins/blackbox
+	url = https://github.com/NFRage/blackbox
+[submodule "submodules/SDL"]
+	path = submodules/SDL
+	url = https://github.com/libsdl-org/SDL
+[submodule "submodules/bullet3"]
+	path = submodules/bullet3
+	url = https://github.com/bulletphysics/bullet3
+[submodule "submodules/entt"]
+	path = submodules/entt
+	url = https://github.com/skypjack/entt
+[submodule "submodules/imgui"]
+	path = submodules/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "submodules/lua"]
+	path = submodules/lua
+	url = https://github.com/lua/lua
+[submodule "submodules/marl"]
+	path = submodules/marl
+	url = https://github.com/google/marl
+[submodule "submodules/optick"]
+	path = submodules/optick
+	url = https://github.com/bombomby/optick
+[submodule "submodules/rapidjson"]
+	path = submodules/rapidjson
+	url = https://github.com/Tencent/rapidjson
+[submodule "submodules/spdlog"]
+	path = submodules/spdlog
+	url = https://github.com/gabime/spdlog
